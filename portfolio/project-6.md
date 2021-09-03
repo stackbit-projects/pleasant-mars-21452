@@ -1,5 +1,5 @@
 ---
-title: Doch nicht  ... nicht ☹️
+title: Doch nicht  ...  ☹️
 subtitle: Untertitel
 date: '2021-02-06'
 thumb_image: images/21-08-24-19-36-50-446_deco-8d05aecf.jpg
