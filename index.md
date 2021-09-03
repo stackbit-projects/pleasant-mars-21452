@@ -81,7 +81,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: images/cta.svg
+    image: images/schatten.png
     image_alt: Illustration
     bg_color: light
 seo:
