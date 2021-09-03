@@ -3,7 +3,7 @@ title: Doch nicht
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: images/21-08-24-19-36-50-446_deco-8d05aecf.jpg
-thumb_image_alt: Doch nicht
+thumb_image_alt: Doch nicht☹️
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
