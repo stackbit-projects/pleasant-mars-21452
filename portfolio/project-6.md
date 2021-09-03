@@ -7,7 +7,7 @@ thumb_image_alt: Doch nicht☹️
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
-    image_alt: Subtle 1
+    image_alt: Haupttitel
     caption: Untertitel
     width: wide
   - type: text_section
