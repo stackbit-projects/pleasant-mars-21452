@@ -2,7 +2,7 @@
 title: Nature Magazine
 subtitle: Editorial Design
 date: '2021-01-10'
-thumb_image: images/PXL_20210824_173221012.NIGHT.jpg
+thumb_image: images/PXL_20210824_173550460.NIGHT.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
