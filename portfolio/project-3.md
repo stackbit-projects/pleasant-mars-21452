@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: images/Mahnmal Mauthausen und Wachturm.jpg
+thumb_image: images/Menschenschatten_Mauthausen.jpg
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
